@@ -26,4 +26,4 @@ while True:
     print("Chatbot:",response)
     
 
-    df = data.drop(columns=['MovieName','Genre','Rating','Director','Actor','PeopleVote','Year','Hero_Rating','movie_rating','content_rating'])
+    
